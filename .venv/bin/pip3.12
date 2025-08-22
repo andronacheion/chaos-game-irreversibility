@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/home/user/Documents/Acum in lucru/02 Articole submise/2025.08.19 PRIMUS (IA)/github/chaos-game-irreversibility/.venv/bin/python3" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from pip._internal.cli.main import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
