@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite this repository."
+title: "Chaos-Game Irreversibility"
+type: software
+authors:
+  - family-names: Ion
+    given-names: Ion
+repository-code: "https://github.com/andronacheion/chaos-game-irreversibility"
+version: "1.0.0"
+date-released: "2025-08-22"
+preferred-citation:
+  type: software
+  title: "Chaos-Game Irreversibility"
+  authors:
+    - family-names: Andronache
+      given-names: Ion
+  version: "1.0.0"
+  date-released: "2025-08-22"
+  url: "https://github.com/andronacheion/chaos-game-irreversibility"
+keywords:
+  - chaos-game
+  - fractals
+  - sierpinski-triangle
+  - dynamical-systems
+  - python
+  - reproducibility
