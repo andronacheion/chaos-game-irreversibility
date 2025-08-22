@@ -1,0 +1,4 @@
+# keep example images
+!examples/
+!examples/*.png
+
